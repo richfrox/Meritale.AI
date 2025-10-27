@@ -9,7 +9,7 @@
 
 **MERITALE.AI** adalah *secure web app* dan *library/API* yang dirancang untuk membantu BKN dan unit pengelola SDM (Kementerian/Lembaga/Daerah) dalam menerapkan prinsip meritokrasi secara objektif. Platform ini berbasis data dan kecerdasan buatan (AI) untuk:
 
-* Mengukur dan melaporkan bias & *fairness* dalam proses SDM.
+* Mengukur dan melaporkan bias & *fairness* dalam implementasi sistem merit ASN.
 * Menyediakan *talent card* ASN (penilaian berdasarkan indikator manajemen talenta).
 * Merekomendasikan *career-path* yang disesuaikan.
 * Menyediakan *chatbot RAG* (Retrieval Augmented Generation) / AI Agent assistant untuk asistensi.
