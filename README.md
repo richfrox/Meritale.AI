@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo-dark.png" alt="MERITALE.AI Logo" width="200"/>
+  <img src="./logo-light.png" alt="MERITALE.AI Logo" width="200"/>
   <h1>MERITALE.AI: SECURE ANALYTIC PLATFORM BERBASIS AI UNTUK MENDUKUNG OTOMASI, OBJEKTIFITAS, DAN TRANSPARANSI SISTEM MERIT ASN</h1>
 </div>
 
