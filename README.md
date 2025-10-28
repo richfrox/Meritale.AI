@@ -40,7 +40,7 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 * **Database:** PostgreSQL, Milvus Vector
 * **AI/LLM:** Gemini
 * **Deployment:** Docker
-* **Cryptographic Module:** 
+* **Cryptographic Module:**  AES-256 GCM (galois/counter mode)
 * **Security:** OWASP Top 10 practices, encryption standards
 
 ---
