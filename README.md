@@ -35,12 +35,12 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 ## Teknologi yang Digunakan (Contoh, bisa disesuaikan)
 
-* **Backend:** Python (Django/Flask), FastAPI
-* **Frontend:** React.js / Vue.js / Angular
-* **Database:** PostgreSQL (dengan enkripsi)
-* **AI/ML:** TensorFlow / PyTorch, Scikit-learn, Hugging Face Transformers
-* **Deployment:** Docker, Kubernetes
-* **Cloud:** AWS / Azure / GCP
+* **Backend:** Python, FastAPI
+* **Frontend:** react js, node js
+* **Database:** PostgreSQL, Milvus Vector
+* **AI/LLM:** Gemini
+* **Deployment:** Docker
+* **Cryptographic Module:** 
 * **Security:** OWASP Top 10 practices, encryption standards
 
 ---
