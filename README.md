@@ -36,7 +36,7 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 ## Teknologi yang Digunakan
 
 * **Backend:** Python
-* **Frontend:** Eeact, Node js
+* **Frontend:** React, Node js
 * **Database:** PostgreSQL, Milvus Vector
 * **AI/LLM:** Gemini
 * **Deployment:** Native/Bare-Metal
