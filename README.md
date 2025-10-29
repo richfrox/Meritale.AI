@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo-dark.png" alt="MERITALE.AI Logo" width="200"/>
+  <img src="./logo-light.png" alt="MERITALE.AI Logo" width="200"/>
   <h1>MERITALE.AI: SECURE ANALYTIC PLATFORM BERBASIS AI UNTUK MENDUKUNG OTOMASI, OBJEKTIFITAS, DAN TRANSPARANSI SISTEM MERIT ASN</h1>
 </div>
 
@@ -33,19 +33,19 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 ---
 
-## Teknologi yang Digunakan (Contoh, bisa disesuaikan)
+## Teknologi yang Digunakan
 
-* **Backend:** Python, FastAPI
-* **Frontend:** react js, node js
+* **Backend:** Python
+* **Frontend:** Eeact, Node js
 * **Database:** PostgreSQL, Milvus Vector
 * **AI/LLM:** Gemini
-* **Deployment:** Docker
+* **Deployment:** Native/Bare-Metal
 * **Cryptographic Module:**  AES-256 GCM (galois/counter mode)
 * **Security:** OWASP Top 10 practices, encryption standards
 
 ---
 
-## Instalasi & Penggunaan (Contoh, bisa disesuaikan)
+## Instalasi & Penggunaan
 
 ```bash
 # Clone repositori
