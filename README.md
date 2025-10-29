@@ -49,8 +49,8 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 ```bash
 # Clone repositori
-git clone [https://github.com/yourusername/meritale-ai.git](https://github.com/yourusername/meritale-ai.git)
-cd meritale-ai
+git clone [https://github.com/richfrox/Meritale.AI.git](https://github.com/richfrox/Meritale.AI)
+cd Meritale.AI
 
 # Instal dependensi (contoh untuk Python)
 pip install -r requirements.txt
