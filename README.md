@@ -24,9 +24,9 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 * **Analisis Meritokrasi Berbasis AI:** Menerapkan prinsip meritokrasi secara objektif.
 * **Pengukuran Bias & Fairness:** Identifikasi dan pelaporan bias dalam keputusan SDM.
-* **Talent Card ASN:** Penilaian talenta dan *scoring* sesuai indikator.
-* **Rekomendasi Career-Path:** Panduan pengembangan karir personalisasi.
-* **AI Chatbot/Agent Assistant:** Asistensi berbasis AI untuk pertanyaan dan tugas SDM.
+* **Talent Card ASN:** Penilaian talenta dan *scoring* sesuai indikator manajemen talenta ASN.
+* **Rekomendasi Career-Path:** Panduan pengembangan karir personalisasi ASN.
+* **AI Chatbot/Agent Assistant:** Asistensi AI Agent berbasis database MERITALE.AI.
 * **Security-by-Design:** Enkripsi *database* dan *penetration testing* untuk keamanan data.
 * **Kepatuhan SPBE & UU PDP:** Membantu memenuhi standar dan regulasi.
 * **UI Dashboard & API:** Fleksibilitas adopsi dengan UI siap pakai atau integrasi API.
