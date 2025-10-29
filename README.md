@@ -35,11 +35,11 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 ## Teknologi yang Digunakan
 
-* **Backend:** Python
-* **Frontend:** Eeact, Node js
+* **Backend:** Python, ( Planned Upgrade: FastAPI) 
+* **Frontend:** React, Node js
 * **Database:** PostgreSQL, Milvus Vector
 * **AI/LLM:** Gemini
-* **Deployment:** Native/Bare-Metal
+* **Deployment:** Native/Bare-Metal (Planned Upgrade: Docker)
 * **Cryptographic Module:**  AES-256 GCM (galois/counter mode)
 * **Security:** OWASP Top 10 practices, encryption standards
 
@@ -49,18 +49,20 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 
 ```bash
 # Clone repositori
-git clone [https://github.com/yourusername/meritale-ai.git](https://github.com/yourusername/meritale-ai.git)
-cd meritale-ai
+git clone https://github.com/richfrox/Meritale.AI.git
+cd Meritale.AI
 
-# Instal dependensi (contoh untuk Python)
-pip install -r requirements.txt
+# Jalankan migrasi database
 
-# Konfigurasi variabel lingkungan (misalnya .env)
+# Instal dependensi
+npm install
+npm run
+#masuk Backend
+cd Backend
+# Instal dependensi
+npm install 
+npm run
+# Konfigurasi variabel lingkungan
 cp .env.example .env
 # Edit .env dengan kredensial database, kunci API, dll.
 
-# Jalankan migrasi database
-python manage.py migrate
-
-# Jalankan aplikasi web (contoh Django)
-python manage.py runserver
