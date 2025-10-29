@@ -52,15 +52,15 @@ MERITALE.AI menyediakan antarmuka pengguna (UI) siap pakai untuk *dashboard anal
 git clone [https://github.com/richfrox/Meritale.AI.git](https://github.com/richfrox/Meritale.AI)
 cd Meritale.AI
 
-# Instal dependensi (contoh untuk Python)
+# Instal dependensi
 pip install -r requirements.txt
 
-# Konfigurasi variabel lingkungan (misalnya .env)
+# Konfigurasi variabel env
 cp .env.example .env
 # Edit .env dengan kredensial database, kunci API, dll.
 
 # Jalankan migrasi database
 python manage.py migrate
 
-# Jalankan aplikasi web (contoh Django)
+# Jalankan aplikasi web
 python manage.py runserver
